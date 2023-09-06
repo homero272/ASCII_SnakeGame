@@ -1,0 +1,150 @@
+{ "users": [ { "id_str":"1",
+		"name"
+
+
+
+
+
+
+
+
+
+ : "Jaxson" ,
+		"location" : "North Dakota" ,
+		"pic_url" : "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Pikachu_artwork_for_Pok%C3%A9mon_Red_and_Blue.webp/220px-Pikachu_artwork_for_Pok%C3%A9mon_Red_and_Blue.webp.png" ,
+		"follows" : ["15","19"]
+	},
+	{
+		"id_str" : "2" ,
+		"name" : "Marya" ,
+		"pic_url" : "https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png" ,
+		"follows" : ["11","16","20"]
+	},
+	{
+		"id_str" : "3" ,
+		"name" : "Dezirae" ,
+		"location" : "North Dakota" ,
+		"pic_url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Vombatus_ursinus_-Maria_Island_National_Park.jpg/1200px-Vombatus_ursinus_-Maria_Island_National_Park.jpg" ,
+		"follows" : []
+	},
+	{
+		"id_str" : "4" ,
+		"name" : "Sarabella" ,
+		"location" : "Washington DC" ,
+		"follows" : ["5","9","10","14","20"]
+	},
+	{
+		"id_str" : "5" ,
+		"name" : "Ezra" ,
+		"location" : "Maine" ,
+		"pic_url" : "https://stratcomm.sonoma.edu/sites/stratcomm/files/images/giphy-1_0.gif" ,
+		"follows" : ["6","18","19"]
+	},
+	{
+		"id_str" : "6" ,
+		"name" : "Emberrose" ,
+		"location" : "New Hampshire" ,
+		"pic_url" : "https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Pikachu_artwork_for_Pok%C3%A9mon_Red_and_Blue.webp/220px-Pikachu_artwork_for_Pok%C3%A9mon_Red_and_Blue.webp.png" ,
+		"follows" : ["5","9","10","15"]
+	},
+	{
+		"id_str" : "7" ,
+		"name" : "Tinslee" ,
+		"location" : "Idaho" ,
+		"pic_url" : "https://upload.wikimedia.org/wikipedia/en/5/50/Goofy_Duckipedia.png" ,
+		"follows" : ["9","11","12","14","16","17"]
+	},
+	{
+		"id_str" : "8" ,
+		"name" : "Amer" ,
+		"location" : "Oklahoma" ,
+		"pic_url" : "https://upload.wikimedia.org/wikipedia/en/5/50/Goofy_Duckipedia.png" ,
+		"follows" : ["6","15"]
+	},
+	{
+		"id_str" : "9" ,
+		"name" : "Yumi" ,
+		"location" : "Canada" ,
+		"pic_url" : "https://upload.wikimedia.org/wikipedia/en/0/06/Jorts_the_Cat.jpg" ,
+		"follows" : ["3","7","17","18"]
+	},
+	{
+		"id_str" : "10" ,
+		"name" : "Jezekiel" ,
+		"location" : "Pennsylvania" ,
+		"pic_url" : "https://stratcomm.sonoma.edu/sites/stratcomm/files/images/giphy-1_0.gif" ,
+		"follows" : ["19","20"]
+	},
+	{
+		"id_str" : "11" ,
+		"name" : "Yancy" ,
+		"location" : "Minnesota" ,
+		"pic_url" : "https://upload.wikimedia.org/wikipedia/en/5/50/Goofy_Duckipedia.png" ,
+		"follows" : ["8"]
+	},
+	{
+		"id_str" : "12" ,
+		"name" : "Donny" ,
+		"location" : "Mexico" ,
+		"pic_url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Vombatus_ursinus_-Maria_Island_National_Park.jpg/1200px-Vombatus_ursinus_-Maria_Island_National_Park.jpg" ,
+		"follows" : ["4","20"]
+	},
+	{
+		"id_str" : "13" ,
+		"name" : "Lavar" ,
+		"location" : "Kansas" ,
+		"pic_url" : "https://upload.wikimedia.org/wikipedia/en/5/50/Goofy_Duckipedia.png" ,
+		"follows" : ["3","5","8","12"]
+	},
+	{
+		"id_str" : "14" ,
+		"name" : "Enos" ,
+		"location" : "Pennsylvania" ,
+		"pic_url" : "https://stratcomm.sonoma.edu/sites/stratcomm/files/images/giphy-1_0.gif" ,
+		"follows" : ["6","8","9","18","19","20"]
+	},
+	{
+		"id_str" : "15" ,
+		"name" : "Mory" ,
+		"location" : "Oregon" ,
+		"pic_url" : "https://upload.wikimedia.org/wikipedia/en/5/50/Goofy_Duckipedia.png" ,
+		"follows" : ["2","3","6","11","14"]
+	},
+	{
+		"id_str" : "16" ,
+		"name" : "Sonny" ,
+		"location" : "Arkansas" ,
+		"pic_url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Vombatus_ursinus_-Maria_Island_National_Park.jpg/1200px-Vombatus_ursinus_-Maria_Island_National_Park.jpg" ,
+		"follows" : ["4","8"]
+	},
+	{
+		"id_str" : "17" ,
+		"name" : "Armanni" ,
+		"location" : "Wisconsin" ,
+		"pic_url" : "https://upload.wikimedia.org/wikipedia/en/5/50/Goofy_Duckipedia.png" ,
+		"follows" : ["3","12"]
+	},
+	{
+		"id_str" : "18" ,
+		"name" : "Greydon" ,
+		"location" : "Mississippi" ,
+		"pic_url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Vombatus_ursinus_-Maria_Island_National_Park.jpg/1200px-Vombatus_ursinus_-Maria_Island_National_Park.jpg" ,
+		"follows" : ["10","20"]
+	},
+	{
+		"id_str" : "19" ,
+		"name" : "Maymuna" ,
+		"location" : "Kentucky" ,
+		"pic_url" : "https://upload.wikimedia.org/wikipedia/en/c/c2/Peter_Griffin.png" ,
+		"follows" : ["13","16"]
+	},
+	{
+		"id_str" : "20" ,
+		"name" : "Ahmaya" ,
+		"location" : "Connecticut" ,
+		"pic_url" : "https://upload.wikimedia.org/wikipedia/en/0/06/Jorts_the_Cat.jpg" ,
+		"follows" : ["11","12"]
+	}
+]
+}
+
