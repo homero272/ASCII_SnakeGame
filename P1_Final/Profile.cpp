@@ -8,7 +8,7 @@
 #include <fstream>
 #include <sstream>
 #include <string>
-#include <bits/stdc++.h>
+//#include <bits/stdc++.h>
 
 Profile::Profile()
 {
